@@ -5,7 +5,7 @@ I'm a Data Science and Biotechnology student from UIT BU, currently 18 years old
 I code a little in C++ and love exploring how tech and biology connect.
 <br>
 <br>
-Currently learning and experimenting with data, biology, and code — one project at a time.
+Currently learning and experimenting with data, biology, and code one project at a time.
 
 <h3>🌐 Tech stack</h3>
 
@@ -17,7 +17,7 @@ Currently learning and experimenting with data, biology, and code — one projec
 
 <h3>📫 Contact</h3>
 
-💬 You can reach me at: [asnehitadas@gmail.com](mailto:asnehitadas@gmail.com)
+💬 You can reach me at: [asnehitadas@gmail.com](mailto:asnehitadas@gmail.com), [asnehitadas@icloud.com](mailto:asnehitadas@icloud.com) 
 <br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1175389241350561924?showDisplayName=true&hideSpotify=true)](https://discord.com/users/1175389241350561924)
